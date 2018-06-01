@@ -1,0 +1,1 @@
+sta.active(0)

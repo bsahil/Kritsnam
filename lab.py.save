@@ -1,0 +1,10 @@
+import machine
+# import utime
+i2c=machine.I2C(scl=machine.Pin(5),sda=machine.Pin(4),freq=200000)
+a=i2c.scan()
+print(a)
+# utime.sleep_ms(2000)
+b=input('Enter Address of the sensor:')
+i2c.writeto(b,'R')
+c=i2c.readfrom(b,5)
+print(c)
