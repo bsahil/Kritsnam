@@ -4,3 +4,4 @@
 #import webrepl
 #webrepl.start()
 
+import publish
