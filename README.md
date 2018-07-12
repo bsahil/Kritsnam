@@ -1,10 +1,10 @@
 # Kritsnam
-## This Readme File along with the Internship report(//add internship report link) combined is supposed to act as the final Internship Report, as asked of me by my internship supervisor. 
+## This Readme File along with the Internship report(//Internship report link yet to be added) combined is supposed to act as the final Internship Report, as asked of me by my internship supervisor. 
 #### Work done during kritsnam
 
 1. Communication with [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) using micropython.
  * Complete setup of `I2C` and `UART` protocol with ESP32 flashing both `Micropython` and `Arduino` one by one.
- * Sent and recieved data using these protocols with different sensors of interests, including Temperature, Soil Moisture, Dissolved 
+ * Sent and recieved data using these protocols with different sensors of interests, including Temperature, Soil Moisture and Dissolved 
 Oxygen sensors by [Atlas Scientific](https://www.atlas-scientific.com/).
  
 2. Overall understanding and testing of all ESP32 board functionalities.
