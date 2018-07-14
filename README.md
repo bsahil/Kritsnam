@@ -8,7 +8,7 @@
  
 2. Overall understanding and testing of all ESP32 board functionalities.
    - Operation of ESP32 using `WIFI`, `Bluetooth` module embedded onboard.
-   - Sent and recieved data to and from an online open source server facility provided by [Thingsboard] (https://thingsboard.io/).
+   - Sent and recieved data to and from an online open source server facility provided by [Thingsboard](https://thingsboard.io).
    - Integration of data from different sensors and `sending it to Thingsboard server` to view and utilize data on cloud from anywhere where data connectivity is available.
 
 
